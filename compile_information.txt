@@ -1,0 +1,11 @@
+
+
+compile OK under:
+	windows10
+	QT5
+	mingGW32
+Step:
+	go to the project
+	open .pro with QT creator
+	build and run
+	OK
